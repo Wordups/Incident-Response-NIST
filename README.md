@@ -44,7 +44,7 @@ This project outlines a comprehensive Incident Response (IR) plan designed to al
 - Strengthened organizational resilience through proactive planning.
 
 ## Screenshots
-*(Add screenshots of Splunk dashboards, response workflows, or reporting templates here.)*
+*(Unethical Ha)*
 
 ## Technologies Used
 - NIST Cybersecurity Framework
